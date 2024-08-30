@@ -11,3 +11,19 @@
 ## 10. What are some best practices for creating effective headings and subheadings?
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
 ## 12. How can you succinctly convey the purpose and key features of a product?
+
+ANSWERS:
+1. Understanding the audience expertise level helps you determine the technical level at which you need to write.
+2. Strategies to tailor your content to different audience include:
+   - Knowing Your audience
+   - Have a clear structure
+3. Gauging the existing knowledge of an audience can be done by Simplifying the language used in communication
+4. Using Simple and clear terms and Visuals.
+5. To ensure the purpose of your writing is achieved through clear, simple and well explained technical terms.
+6. An instance of where a simple term can be used instead of a technical term is by saying/writing:
+   - 'press the button' instead of 'Click the button', Using 'press' will be easily understandable to any newbie compared to using 'Click'
+7 Examples and visuals provides a clearer communication path to different users allowing them to understand the concept being discussed.
+8. Images
+9. Headings and subheading provide a captivating shot at what the content of a passage should be and helps the reader to locate important/relevant messages.
+10. Headings and Subheadings should be captivating and provides a glimpse of what is to be discussed.
+11. 
